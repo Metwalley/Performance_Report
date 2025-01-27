@@ -66,7 +66,6 @@ For detailed recommendations, see `Business_Recommendations.pdf`.
 ## Tools Used
 1. **Data Cleaning**: Power Query
 2. **Dashboard Creation**: Power BI
-3. **Documentation**: PDF and Excel files
 
 ---
 
